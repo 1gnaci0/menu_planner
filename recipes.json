@@ -1,0 +1,90 @@
+{
+    "Huevos con bacon": {
+        "ingredients": ["huevos", "bacon"],
+        "meal_type": ["Breakfast"]
+    },
+    "Tortitas": {
+        "ingredients": ["huevos", "harina", "leche", "mantequilla"],
+        "meal_type": ["Breakfast"]
+    },
+    "Tostadas con jamón serrano y tomate": {
+        "ingredients": ["pan", "jamón serrano", "tomate"],
+        "meal_type": ["Breakfast"]
+    },
+    "Ensalada": {
+        "ingredients": ["lechugas", "tomate", "aceite de oliva"],
+        "meal_type": ["Side"]
+    },
+    "Puré de Verdura": {
+        "ingredients": ["zanahorias", "patatas", "calabacín", "caldo de verduras", "puerro"],
+        "meal_type": ["Side"]
+    },
+    "Sopa de Verdura": {
+        "ingredients": ["zanahorias", "patatas", "calabacín", "caldo de verduras", "puerro", "pasta sopa"],
+        "meal_type": ["Side"]
+    },
+    "Patatas Fritas": {
+        "ingredients": ["patatas", "aceite de oliva"],
+        "meal_type": ["Side"]
+    },
+    "Berenjenas Fritas": {
+        "ingredients": ["berenjena", "aceite de oliva"],
+        "meal_type": ["Side"]
+    },
+    "Alubia verde": {
+        "ingredients": ["alubia verde"],
+        "meal_type": ["Side"]
+    },
+    "Puré de patata": {
+        "ingredients": ["patatas", "mantequilla", "leche"],
+        "meal_type": ["Side"]
+    },
+    "Coliflor": {
+        "ingredients": ["coliflor"],
+        "meal_type": ["Side"]
+    },
+    "Filetes de pollo empanados": {
+        "ingredients": ["pechuga de pollo", "pan rallado", "huevos", "aceite de oliva"],
+        "meal_type": ["Lunch", "Dinner"]
+    },
+    "Pulpo": {
+        "ingredients": ["pulpo"],
+        "meal_type": ["Dinner"]
+    },
+    "Cocido": {
+        "ingredients": ["garbanzos", "morcillo de ternera", "patatas", "zanahoria", "apio", "puerro"],
+        "meal_type": ["Lunch"]
+    },
+    "Rabas de calamar": {
+        "ingredients": ["rabas congeladas"],
+        "meal_type": ["Lunch", "Dinner"]
+    },
+    "Ensalada de lentejas y quinoa": {
+        "ingredients": ["lentejas", "apio", "aceite de oliva", "quinoa", "cebolla roja"],
+        "meal_type": ["Lunch", "Dinner"]
+    },
+    "Hamburguesitas de pollo": {
+        "ingredients": ["carne picada de pollo", "pistachos", "cebolla", "pimienta", "sal"],
+        "meal_type": ["Lunch", "Dinner"]
+    },
+    "Merluza en salsa verde": {
+        "ingredients": ["merluza", "caldo de pescado", "ajo", "perejil", "aceite de oliva", "harina"],
+        "meal_type": ["Lunch", "Dinner"]
+    },
+    "Pasta Boloñesa": {
+        "ingredients": ["pasta", "carne picada de ternera", "ajo", "cebolla", "aceite de oliva", "tomate triturado"],
+        "meal_type": ["Lunch", "Dinner"]
+    },
+    "Ensalada Ylenia": {
+        "ingredients": ["lechuga", "huevos", "tomate", "atún en bote", "cebolla"],
+        "meal_type": ["Lunch", "Dinner"]
+    },
+    "Nuggets de Pollo": {
+        "ingredients": ["nuggets de pollo"],
+        "meal_type": ["Lunch", "Dinner"]
+    },
+    "Merluza Empanada": {
+        "ingredients": ["merluza empanada"],
+        "meal_type": ["Lunch", "Dinner"]
+    }
+}

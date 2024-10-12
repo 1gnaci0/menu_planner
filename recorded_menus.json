@@ -1,0 +1,1232 @@
+[
+    {
+        "timestamp": "2024-10-12 23:51:08",
+        "menu": {
+            "Monday": {
+                "Breakfast": "Huevos con bacon",
+                "Lunch": {
+                    "main": "Filetes de pollo empanados",
+                    "side": "Patatas Fritas"
+                },
+                "Dinner": {
+                    "main": "Filetes de pollo empanados",
+                    "side": "Patatas Fritas"
+                }
+            },
+            "Tuesday": {
+                "Breakfast": "Huevos con bacon",
+                "Lunch": {
+                    "main": "Filetes de pollo empanados",
+                    "side": "Ensalada"
+                },
+                "Dinner": {
+                    "main": "Filetes de pollo empanados",
+                    "side": "Ensalada"
+                }
+            },
+            "Wednesday": {
+                "Breakfast": "Huevos con bacon",
+                "Lunch": {
+                    "main": "Filetes de pollo empanados",
+                    "side": "Ensalada"
+                },
+                "Dinner": {
+                    "main": "Filetes de pollo empanados",
+                    "side": "Ensalada"
+                }
+            },
+            "Thursday": {
+                "Breakfast": "Huevos con bacon",
+                "Lunch": {
+                    "main": "Filetes de pollo empanados",
+                    "side": "Ensalada"
+                },
+                "Dinner": {
+                    "main": "Filetes de pollo empanados",
+                    "side": "Ensalada"
+                }
+            },
+            "Friday": {
+                "Breakfast": "Huevos con bacon",
+                "Lunch": {
+                    "main": "Filetes de pollo empanados",
+                    "side": "Ensalada"
+                },
+                "Dinner": {
+                    "main": "Filetes de pollo empanados",
+                    "side": "Ensalada"
+                }
+            },
+            "Saturday": {
+                "Breakfast": "Huevos con bacon",
+                "Lunch": {
+                    "main": "Filetes de pollo empanados",
+                    "side": "Ensalada"
+                },
+                "Dinner": {
+                    "main": "Filetes de pollo empanados",
+                    "side": "Ensalada"
+                }
+            },
+            "Sunday": {
+                "Breakfast": "Huevos con bacon",
+                "Lunch": {
+                    "main": "Filetes de pollo empanados",
+                    "side": "Ensalada"
+                },
+                "Dinner": {
+                    "main": "Filetes de pollo empanados",
+                    "side": "Ensalada"
+                }
+            }
+        }
+    },
+    {
+        "timestamp": "2024-10-12 23:55:29",
+        "menu": {
+            "Monday": {
+                "Breakfast": "Tostadas con jam\u00f3n serrano y tomate",
+                "Lunch": {
+                    "main": "Ensalada de lentejas y quinoa",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Merluza en salsa verde",
+                    "side": "None"
+                }
+            },
+            "Tuesday": {
+                "Breakfast": "Huevos con bacon",
+                "Lunch": {
+                    "main": "Cocido",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Rabas de calamar",
+                    "side": "Ensalada"
+                }
+            },
+            "Wednesday": {
+                "Breakfast": "Tostadas con jam\u00f3n serrano y tomate",
+                "Lunch": {
+                    "main": "Filetes de pollo empanados",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Merluza en salsa verde",
+                    "side": "None"
+                }
+            },
+            "Thursday": {
+                "Breakfast": "Huevos con bacon",
+                "Lunch": {
+                    "main": "Hamburguesitas de pollo",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Hamburguesitas de pollo",
+                    "side": "None"
+                }
+            },
+            "Friday": {
+                "Breakfast": "Huevos con bacon",
+                "Lunch": {
+                    "main": "Rabas de calamar",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Cocido",
+                    "side": "None"
+                }
+            },
+            "Saturday": {
+                "Breakfast": "Huevos con bacon",
+                "Lunch": {
+                    "main": "Cocido",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Hamburguesitas de pollo",
+                    "side": "None"
+                }
+            },
+            "Sunday": {
+                "Breakfast": "Tostadas con jam\u00f3n serrano y tomate",
+                "Lunch": {
+                    "main": "Filetes de pollo empanados",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Ensalada de lentejas y quinoa",
+                    "side": "None"
+                }
+            }
+        }
+    },
+    {
+        "timestamp": "2024-10-13 00:03:37",
+        "menu": {
+            "Monday": {
+                "Breakfast": "Huevos con bacon",
+                "Lunch": {
+                    "main": "Merluza en salsa verde",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Ensalada de lentejas y quinoa",
+                    "side": "None"
+                }
+            },
+            "Tuesday": {
+                "Breakfast": "Huevos con bacon",
+                "Lunch": {
+                    "main": "Cocido",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Filetes de pollo empanados",
+                    "side": "None"
+                }
+            },
+            "Wednesday": {
+                "Breakfast": "Huevos con bacon",
+                "Lunch": {
+                    "main": "Rabas de calamar",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Ensalada de lentejas y quinoa",
+                    "side": "None"
+                }
+            },
+            "Thursday": {
+                "Breakfast": "Huevos con bacon",
+                "Lunch": {
+                    "main": "Rabas de calamar",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Rabas de calamar",
+                    "side": "None"
+                }
+            },
+            "Friday": {
+                "Breakfast": "Tostadas con jam\u00f3n serrano y tomate",
+                "Lunch": {
+                    "main": "Hamburguesitas de pollo",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Rabas de calamar",
+                    "side": "None"
+                }
+            },
+            "Saturday": {
+                "Breakfast": "Huevos con bacon",
+                "Lunch": {
+                    "main": "Hamburguesitas de pollo",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Rabas de calamar",
+                    "side": "None"
+                }
+            },
+            "Sunday": {
+                "Breakfast": "Tostadas con jam\u00f3n serrano y tomate",
+                "Lunch": {
+                    "main": "Ensalada de lentejas y quinoa",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Ensalada de lentejas y quinoa",
+                    "side": "None"
+                }
+            }
+        }
+    },
+    {
+        "timestamp": "2024-10-13 00:13:06",
+        "menu": {
+            "Monday": {
+                "Breakfast": "Huevos con bacon",
+                "Lunch": {
+                    "main": "Pasta Bolo\u00f1esa",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Ensalada Ylenia",
+                    "side": "None"
+                }
+            },
+            "Tuesday": {
+                "Breakfast": "Huevos con bacon",
+                "Lunch": {
+                    "main": "Cocido",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Merluza en salsa verde",
+                    "side": "None"
+                }
+            },
+            "Wednesday": {
+                "Breakfast": "Huevos con bacon",
+                "Lunch": {
+                    "main": "Hamburguesitas de pollo",
+                    "side": "Ensalada"
+                },
+                "Dinner": {
+                    "main": "Ensalada Ylenia",
+                    "side": "Ensalada"
+                }
+            },
+            "Thursday": {
+                "Breakfast": "Tostadas con jam\u00f3n serrano y tomate",
+                "Lunch": {
+                    "main": "Filetes de pollo empanados",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Rabas de calamar",
+                    "side": "None"
+                }
+            },
+            "Friday": {
+                "Breakfast": "Tostadas con jam\u00f3n serrano y tomate",
+                "Lunch": {
+                    "main": "Filetes de pollo empanados",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Hamburguesitas de pollo",
+                    "side": "None"
+                }
+            },
+            "Saturday": {
+                "Breakfast": "Tostadas con jam\u00f3n serrano y tomate",
+                "Lunch": {
+                    "main": "Pasta Bolo\u00f1esa",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Rabas de calamar",
+                    "side": "None"
+                }
+            },
+            "Sunday": {
+                "Breakfast": "Tostadas con jam\u00f3n serrano y tomate",
+                "Lunch": {
+                    "main": "Pasta Bolo\u00f1esa",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Ensalada Ylenia",
+                    "side": "None"
+                }
+            }
+        }
+    },
+    {
+        "timestamp": "2024-10-13 00:15:09",
+        "menu": {
+            "Monday": {
+                "Breakfast": "Huevos con bacon",
+                "Lunch": {
+                    "main": "Rabas de calamar",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Ensalada de lentejas y quinoa",
+                    "side": "None"
+                }
+            },
+            "Tuesday": {
+                "Breakfast": "Huevos con bacon",
+                "Lunch": {
+                    "main": "Cocido",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Pasta Bolo\u00f1esa",
+                    "side": "None"
+                }
+            },
+            "Wednesday": {
+                "Breakfast": "Tostadas con jam\u00f3n serrano y tomate",
+                "Lunch": {
+                    "main": "Merluza en salsa verde",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Filetes de pollo empanados",
+                    "side": "None"
+                }
+            },
+            "Thursday": {
+                "Breakfast": "Tostadas con jam\u00f3n serrano y tomate",
+                "Lunch": {
+                    "main": "Cocido",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Merluza en salsa verde",
+                    "side": "None"
+                }
+            },
+            "Friday": {
+                "Breakfast": "Tostadas con jam\u00f3n serrano y tomate",
+                "Lunch": {
+                    "main": "Rabas de calamar",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Rabas de calamar",
+                    "side": "None"
+                }
+            },
+            "Saturday": {
+                "Breakfast": "Tostadas con jam\u00f3n serrano y tomate",
+                "Lunch": {
+                    "main": "Merluza en salsa verde",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Pasta Bolo\u00f1esa",
+                    "side": "None"
+                }
+            },
+            "Sunday": {
+                "Breakfast": "Huevos con bacon",
+                "Lunch": {
+                    "main": "Cocido",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Rabas de calamar",
+                    "side": "None"
+                }
+            }
+        }
+    },
+    {
+        "timestamp": "2024-10-13 00:15:21",
+        "menu": {
+            "Monday": {
+                "Breakfast": "Huevos con bacon",
+                "Lunch": {
+                    "main": "Rabas de calamar",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Ensalada de lentejas y quinoa",
+                    "side": "None"
+                }
+            },
+            "Tuesday": {
+                "Breakfast": "Huevos con bacon",
+                "Lunch": {
+                    "main": "Cocido",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Pasta Bolo\u00f1esa",
+                    "side": "None"
+                }
+            },
+            "Wednesday": {
+                "Breakfast": "Tostadas con jam\u00f3n serrano y tomate",
+                "Lunch": {
+                    "main": "Merluza en salsa verde",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Filetes de pollo empanados",
+                    "side": "None"
+                }
+            },
+            "Thursday": {
+                "Breakfast": "Tostadas con jam\u00f3n serrano y tomate",
+                "Lunch": {
+                    "main": "Cocido",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Merluza en salsa verde",
+                    "side": "None"
+                }
+            },
+            "Friday": {
+                "Breakfast": "Tostadas con jam\u00f3n serrano y tomate",
+                "Lunch": {
+                    "main": "Rabas de calamar",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Rabas de calamar",
+                    "side": "None"
+                }
+            },
+            "Saturday": {
+                "Breakfast": "Tostadas con jam\u00f3n serrano y tomate",
+                "Lunch": {
+                    "main": "Merluza en salsa verde",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Pasta Bolo\u00f1esa",
+                    "side": "None"
+                }
+            },
+            "Sunday": {
+                "Breakfast": "Huevos con bacon",
+                "Lunch": {
+                    "main": "Cocido",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Rabas de calamar",
+                    "side": "None"
+                }
+            }
+        }
+    },
+    {
+        "timestamp": "2024-10-13 00:18:16",
+        "menu": {
+            "Monday": {
+                "Breakfast": "Huevos con bacon",
+                "Lunch": {
+                    "main": "Merluza en salsa verde",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Rabas de calamar",
+                    "side": "None"
+                }
+            },
+            "Tuesday": {
+                "Breakfast": "Huevos con bacon",
+                "Lunch": {
+                    "main": "Rabas de calamar",
+                    "side": "Ensalada"
+                },
+                "Dinner": {
+                    "main": "Hamburguesitas de pollo",
+                    "side": "Ensalada"
+                }
+            },
+            "Wednesday": {
+                "Breakfast": "Tostadas con jam\u00f3n serrano y tomate",
+                "Lunch": {
+                    "main": "Pasta Bolo\u00f1esa",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Ensalada Ylenia",
+                    "side": "None"
+                }
+            },
+            "Thursday": {
+                "Breakfast": "Tortitas",
+                "Lunch": {
+                    "main": "Ensalada de lentejas y quinoa",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Hamburguesitas de pollo",
+                    "side": "None"
+                }
+            },
+            "Friday": {
+                "Breakfast": "Tostadas con jam\u00f3n serrano y tomate",
+                "Lunch": {
+                    "main": "Merluza en salsa verde",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Pasta Bolo\u00f1esa",
+                    "side": "None"
+                }
+            },
+            "Saturday": {
+                "Breakfast": "Tortitas",
+                "Lunch": {
+                    "main": "Pasta Bolo\u00f1esa",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Filetes de pollo empanados",
+                    "side": "None"
+                }
+            },
+            "Sunday": {
+                "Breakfast": "Huevos con bacon",
+                "Lunch": {
+                    "main": "Hamburguesitas de pollo",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Pasta Bolo\u00f1esa",
+                    "side": "None"
+                }
+            }
+        }
+    },
+    {
+        "timestamp": "2024-10-13 00:18:50",
+        "menu": {
+            "Monday": {
+                "Breakfast": "Tostadas con jam\u00f3n serrano y tomate",
+                "Lunch": {
+                    "main": "Pasta Bolo\u00f1esa",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Hamburguesitas de pollo",
+                    "side": "None"
+                }
+            },
+            "Tuesday": {
+                "Breakfast": "Huevos con bacon",
+                "Lunch": {
+                    "main": "Merluza en salsa verde",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Pasta Bolo\u00f1esa",
+                    "side": "None"
+                }
+            },
+            "Wednesday": {
+                "Breakfast": "Huevos con bacon",
+                "Lunch": {
+                    "main": "Rabas de calamar",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Filetes de pollo empanados",
+                    "side": "None"
+                }
+            },
+            "Thursday": {
+                "Breakfast": "Huevos con bacon",
+                "Lunch": {
+                    "main": "Hamburguesitas de pollo",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Hamburguesitas de pollo",
+                    "side": "None"
+                }
+            },
+            "Friday": {
+                "Breakfast": "Tortitas",
+                "Lunch": {
+                    "main": "Cocido",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Pasta Bolo\u00f1esa",
+                    "side": "None"
+                }
+            },
+            "Saturday": {
+                "Breakfast": "Tostadas con jam\u00f3n serrano y tomate",
+                "Lunch": {
+                    "main": "Hamburguesitas de pollo",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Rabas de calamar",
+                    "side": "None"
+                }
+            },
+            "Sunday": {
+                "Breakfast": "Huevos con bacon",
+                "Lunch": {
+                    "main": "Merluza en salsa verde",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Filetes de pollo empanados",
+                    "side": "None"
+                }
+            }
+        }
+    },
+    {
+        "timestamp": "2024-10-13 00:34:19",
+        "menu": {
+            "Monday": {
+                "Breakfast": "Huevos con bacon",
+                "Lunch": {
+                    "main": "Rabas de calamar",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Hamburguesitas de pollo",
+                    "side": "Ensalada"
+                }
+            },
+            "Tuesday": {
+                "Breakfast": "Tortitas",
+                "Lunch": {
+                    "main": "Merluza en salsa verde",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Ensalada Ylenia",
+                    "side": "None"
+                }
+            },
+            "Wednesday": {
+                "Breakfast": "Huevos con bacon",
+                "Lunch": {
+                    "main": "Cocido",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Merluza Empanada",
+                    "side": "None"
+                }
+            },
+            "Thursday": {
+                "Breakfast": "Huevos con bacon",
+                "Lunch": {
+                    "main": "Hamburguesitas de pollo",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Ensalada Ylenia",
+                    "side": "None"
+                }
+            },
+            "Friday": {
+                "Breakfast": "Tortitas",
+                "Lunch": {
+                    "main": "Merluza en salsa verde",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Hamburguesitas de pollo",
+                    "side": "None"
+                }
+            },
+            "Saturday": {
+                "Breakfast": "Huevos con bacon",
+                "Lunch": {
+                    "main": "Cocido",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Merluza Empanada",
+                    "side": "None"
+                }
+            },
+            "Sunday": {
+                "Breakfast": "Huevos con bacon",
+                "Lunch": {
+                    "main": "Merluza en salsa verde",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Pasta Bolo\u00f1esa",
+                    "side": "None"
+                }
+            }
+        }
+    },
+    {
+        "timestamp": "2024-10-13 00:34:31",
+        "menu": {
+            "Monday": {
+                "Breakfast": "Huevos con bacon",
+                "Lunch": {
+                    "main": "Rabas de calamar",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Hamburguesitas de pollo",
+                    "side": "Ensalada"
+                }
+            },
+            "Tuesday": {
+                "Breakfast": "Tortitas",
+                "Lunch": {
+                    "main": "Merluza en salsa verde",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Ensalada Ylenia",
+                    "side": "None"
+                }
+            },
+            "Wednesday": {
+                "Breakfast": "Huevos con bacon",
+                "Lunch": {
+                    "main": "Cocido",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Merluza Empanada",
+                    "side": "None"
+                }
+            },
+            "Thursday": {
+                "Breakfast": "Huevos con bacon",
+                "Lunch": {
+                    "main": "Hamburguesitas de pollo",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Ensalada Ylenia",
+                    "side": "None"
+                }
+            },
+            "Friday": {
+                "Breakfast": "Tortitas",
+                "Lunch": {
+                    "main": "Merluza en salsa verde",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Hamburguesitas de pollo",
+                    "side": "None"
+                }
+            },
+            "Saturday": {
+                "Breakfast": "Huevos con bacon",
+                "Lunch": {
+                    "main": "Cocido",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Merluza Empanada",
+                    "side": "None"
+                }
+            },
+            "Sunday": {
+                "Breakfast": "Huevos con bacon",
+                "Lunch": {
+                    "main": "Merluza en salsa verde",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Pasta Bolo\u00f1esa",
+                    "side": "None"
+                }
+            }
+        }
+    },
+    {
+        "timestamp": "2024-10-13 00:35:15",
+        "menu": {
+            "Monday": {
+                "Breakfast": "Huevos con bacon",
+                "Lunch": {
+                    "main": "Ensalada Ylenia",
+                    "side": "Alubia verde"
+                },
+                "Dinner": {
+                    "main": "Merluza en salsa verde",
+                    "side": "Alubia verde"
+                }
+            },
+            "Tuesday": {
+                "Breakfast": "Tortitas",
+                "Lunch": {
+                    "main": "Hamburguesitas de pollo",
+                    "side": "Alubia verde"
+                },
+                "Dinner": {
+                    "main": "Filetes de pollo empanados",
+                    "side": "Alubia verde"
+                }
+            },
+            "Wednesday": {
+                "Breakfast": "Tostadas con jam\u00f3n serrano y tomate",
+                "Lunch": {
+                    "main": "Cocido",
+                    "side": "Alubia verde"
+                },
+                "Dinner": {
+                    "main": "Nuggets de Pollo",
+                    "side": "Alubia verde"
+                }
+            },
+            "Thursday": {
+                "Breakfast": "Huevos con bacon",
+                "Lunch": {
+                    "main": "Rabas de calamar",
+                    "side": "Alubia verde"
+                },
+                "Dinner": {
+                    "main": "Pasta Bolo\u00f1esa",
+                    "side": "Alubia verde"
+                }
+            },
+            "Friday": {
+                "Breakfast": "Tortitas",
+                "Lunch": {
+                    "main": "Rabas de calamar",
+                    "side": "Alubia verde"
+                },
+                "Dinner": {
+                    "main": "Ensalada de lentejas y quinoa",
+                    "side": "Alubia verde"
+                }
+            },
+            "Saturday": {
+                "Breakfast": "Huevos con bacon",
+                "Lunch": {
+                    "main": "Rabas de calamar",
+                    "side": "Alubia verde"
+                },
+                "Dinner": {
+                    "main": "Merluza en salsa verde",
+                    "side": "Alubia verde"
+                }
+            },
+            "Sunday": {
+                "Breakfast": "Tostadas con jam\u00f3n serrano y tomate",
+                "Lunch": {
+                    "main": "Rabas de calamar",
+                    "side": "Alubia verde"
+                },
+                "Dinner": {
+                    "main": "Ensalada Ylenia",
+                    "side": "Alubia verde"
+                }
+            }
+        }
+    },
+    {
+        "timestamp": "2024-10-13 00:35:21",
+        "menu": {
+            "Monday": {
+                "Breakfast": "Huevos con bacon",
+                "Lunch": {
+                    "main": "Ensalada Ylenia",
+                    "side": "Alubia verde"
+                },
+                "Dinner": {
+                    "main": "Merluza en salsa verde",
+                    "side": "Alubia verde"
+                }
+            },
+            "Tuesday": {
+                "Breakfast": "Tortitas",
+                "Lunch": {
+                    "main": "Hamburguesitas de pollo",
+                    "side": "Alubia verde"
+                },
+                "Dinner": {
+                    "main": "Filetes de pollo empanados",
+                    "side": "Alubia verde"
+                }
+            },
+            "Wednesday": {
+                "Breakfast": "Tostadas con jam\u00f3n serrano y tomate",
+                "Lunch": {
+                    "main": "Cocido",
+                    "side": "Alubia verde"
+                },
+                "Dinner": {
+                    "main": "Nuggets de Pollo",
+                    "side": "Alubia verde"
+                }
+            },
+            "Thursday": {
+                "Breakfast": "Huevos con bacon",
+                "Lunch": {
+                    "main": "Rabas de calamar",
+                    "side": "Alubia verde"
+                },
+                "Dinner": {
+                    "main": "Pasta Bolo\u00f1esa",
+                    "side": "Alubia verde"
+                }
+            },
+            "Friday": {
+                "Breakfast": "Tortitas",
+                "Lunch": {
+                    "main": "Rabas de calamar",
+                    "side": "Alubia verde"
+                },
+                "Dinner": {
+                    "main": "Ensalada de lentejas y quinoa",
+                    "side": "Alubia verde"
+                }
+            },
+            "Saturday": {
+                "Breakfast": "Huevos con bacon",
+                "Lunch": {
+                    "main": "Rabas de calamar",
+                    "side": "Alubia verde"
+                },
+                "Dinner": {
+                    "main": "Merluza en salsa verde",
+                    "side": "Alubia verde"
+                }
+            },
+            "Sunday": {
+                "Breakfast": "Tostadas con jam\u00f3n serrano y tomate",
+                "Lunch": {
+                    "main": "Cocido",
+                    "side": "Alubia verde"
+                },
+                "Dinner": {
+                    "main": "Ensalada Ylenia",
+                    "side": "Alubia verde"
+                }
+            }
+        }
+    },
+    {
+        "timestamp": "2024-10-13 00:39:39",
+        "menu": {
+            "Monday": {
+                "Breakfast": "Huevos con bacon",
+                "Lunch": {
+                    "main": "Hamburguesitas de pollo",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Filetes de pollo empanados",
+                    "side": "None"
+                }
+            },
+            "Tuesday": {
+                "Breakfast": "Tortitas",
+                "Lunch": {
+                    "main": "Cocido",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Ensalada Ylenia",
+                    "side": "None"
+                }
+            },
+            "Wednesday": {
+                "Breakfast": "Tostadas con jam\u00f3n serrano y tomate",
+                "Lunch": {
+                    "main": "Merluza Empanada",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Hamburguesitas de pollo",
+                    "side": "None"
+                }
+            },
+            "Thursday": {
+                "Breakfast": "Tostadas con jam\u00f3n serrano y tomate",
+                "Lunch": {
+                    "main": "Ensalada de lentejas y quinoa",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Rabas de calamar",
+                    "side": "None"
+                }
+            },
+            "Friday": {
+                "Breakfast": "Tostadas con jam\u00f3n serrano y tomate",
+                "Lunch": {
+                    "main": "Merluza en salsa verde",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Rabas de calamar",
+                    "side": "None"
+                }
+            },
+            "Saturday": {
+                "Breakfast": "Tortitas",
+                "Lunch": {
+                    "main": "Merluza en salsa verde",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Ensalada de lentejas y quinoa",
+                    "side": "None"
+                }
+            },
+            "Sunday": {
+                "Breakfast": "Huevos con bacon",
+                "Lunch": {
+                    "main": "Merluza Empanada",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Hamburguesitas de pollo",
+                    "side": "None"
+                }
+            }
+        }
+    },
+    {
+        "timestamp": "2024-10-13 00:39:56",
+        "menu": {
+            "Monday": {
+                "Breakfast": "Huevos con bacon",
+                "Lunch": {
+                    "main": "Hamburguesitas de pollo",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Filetes de pollo empanados",
+                    "side": "None"
+                }
+            },
+            "Tuesday": {
+                "Breakfast": "Tortitas",
+                "Lunch": {
+                    "main": "Ensalada Ylenia",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Ensalada Ylenia",
+                    "side": "None"
+                }
+            },
+            "Wednesday": {
+                "Breakfast": "Tostadas con jam\u00f3n serrano y tomate",
+                "Lunch": {
+                    "main": "Merluza Empanada",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Hamburguesitas de pollo",
+                    "side": "None"
+                }
+            },
+            "Thursday": {
+                "Breakfast": "Tostadas con jam\u00f3n serrano y tomate",
+                "Lunch": {
+                    "main": "Ensalada de lentejas y quinoa",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Rabas de calamar",
+                    "side": "None"
+                }
+            },
+            "Friday": {
+                "Breakfast": "Tostadas con jam\u00f3n serrano y tomate",
+                "Lunch": {
+                    "main": "Merluza en salsa verde",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Rabas de calamar",
+                    "side": "None"
+                }
+            },
+            "Saturday": {
+                "Breakfast": "Tortitas",
+                "Lunch": {
+                    "main": "Merluza en salsa verde",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Ensalada de lentejas y quinoa",
+                    "side": "None"
+                }
+            },
+            "Sunday": {
+                "Breakfast": "Huevos con bacon",
+                "Lunch": {
+                    "main": "Merluza Empanada",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Hamburguesitas de pollo",
+                    "side": "None"
+                }
+            }
+        }
+    },
+    {
+        "timestamp": "2024-10-13 00:40:08",
+        "menu": {
+            "Monday": {
+                "Breakfast": "Huevos con bacon",
+                "Lunch": {
+                    "main": "Hamburguesitas de pollo",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Filetes de pollo empanados",
+                    "side": "None"
+                }
+            },
+            "Tuesday": {
+                "Breakfast": "Tortitas",
+                "Lunch": {
+                    "main": "Ensalada Ylenia",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Ensalada Ylenia",
+                    "side": "None"
+                }
+            },
+            "Wednesday": {
+                "Breakfast": "Tostadas con jam\u00f3n serrano y tomate",
+                "Lunch": {
+                    "main": "Merluza Empanada",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Hamburguesitas de pollo",
+                    "side": "None"
+                }
+            },
+            "Thursday": {
+                "Breakfast": "Tostadas con jam\u00f3n serrano y tomate",
+                "Lunch": {
+                    "main": "Ensalada de lentejas y quinoa",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Rabas de calamar",
+                    "side": "None"
+                }
+            },
+            "Friday": {
+                "Breakfast": "Tostadas con jam\u00f3n serrano y tomate",
+                "Lunch": {
+                    "main": "Merluza en salsa verde",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Rabas de calamar",
+                    "side": "None"
+                }
+            },
+            "Saturday": {
+                "Breakfast": "Tortitas",
+                "Lunch": {
+                    "main": "Merluza en salsa verde",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Ensalada de lentejas y quinoa",
+                    "side": "None"
+                }
+            },
+            "Sunday": {
+                "Breakfast": "Huevos con bacon",
+                "Lunch": {
+                    "main": "Cocido",
+                    "side": "None"
+                },
+                "Dinner": {
+                    "main": "Hamburguesitas de pollo",
+                    "side": "None"
+                }
+            }
+        }
+    }
+]
