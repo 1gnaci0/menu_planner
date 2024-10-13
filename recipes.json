@@ -58,6 +58,19 @@
         "Side"
       ]
     },
+    "Verduritas plancha": {
+      "ingredients": [
+        "zanahoria",
+        "calabacín",
+        "cebolla",
+        "puerro",
+        "pimiento verde",
+        "pimiento rojo"
+      ],
+      "meal_type": [
+        "Side"
+      ]
+    },
     "Sopa de fideos y huevo duro": {
       "ingredients": [
         "fideos sopa",
@@ -331,6 +344,30 @@
         "Dinner"
       ]
     },
+    "Tortilla de patata": {
+        "ingredients": [
+          "patatas",
+          "cebolla",
+          "huevos",
+          "aceite de oliva",
+          "sal"
+        ],
+        "meal_type": [
+          "Lunch",
+          "Dinner"
+        ]
+      },
+      "Muslos de Pollo en Airfryer": {
+        "ingredients": [
+            "muslos de pollo",
+            "aceite de oliva",
+            "ajo en polvo",
+            "pimienta",
+            "sal",
+            "pimentón"
+        ],
+        "meal_type": ["Lunch", "Dinner"]
+    },      
     "Lubina al horno": {
       "ingredients": [
         "lubina"
@@ -392,6 +429,63 @@
         "Side",
         "Dinner"
       ]
+    },
+    "Lentejas thermomix": {
+        "ingredients": [
+            "lentejas",
+            "bacon",
+            "patatas",
+            "zanahoria",
+            "cebolla",
+            "ajo",
+            "laurel",
+            "aceite de oliva",
+            "pimentón",
+            "sal"
+        ],
+        "meal_type": ["Lunch", "Dinner"]
+    },
+    "Albóndigas con tomate": {
+        "ingredients": [
+            "carne picada de ternera",
+            "huevos",
+            "pan rallado",
+            "ajo",
+            "perejil",
+            "sal",
+            "pimienta",
+            "harina",
+            "aceite de oliva",
+            "tomate triturado",
+            "azúcar"
+        ],
+        "meal_type": ["Lunch", "Dinner"]
+    },
+    "Pastel de Verduras en Airfryer": {
+        "ingredients": [
+            "calabacín",
+            "zanahoria",
+            "pimiento rojo",
+            "pimiento verde",
+            "huevos",
+            "nata para cocinar",
+            "queso rallado",
+            "sal",
+            "pimienta"
+        ],
+        "meal_type": ["Lunch", "Dinner"]
+    },
+    "Salmón a la Plancha": {
+        "ingredients": [
+            "salmón fresco",
+            "aceite de oliva",
+            "limón",
+            "ajo",
+            "perejil",
+            "sal",
+            "pimienta"
+        ],
+        "meal_type": ["Lunch", "Dinner"]
     }
   }
   
