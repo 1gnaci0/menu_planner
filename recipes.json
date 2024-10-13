@@ -1,90 +1,397 @@
 {
     "Huevos con bacon": {
-        "ingredients": ["huevos", "bacon"],
-        "meal_type": ["Breakfast"]
+      "ingredients": [
+        "huevos",
+        "bacon",
+        "leche",
+        "café"
+      ],
+      "meal_type": [
+        "Breakfast"
+      ]
     },
     "Tortitas": {
-        "ingredients": ["huevos", "harina", "leche", "mantequilla"],
-        "meal_type": ["Breakfast"]
+      "ingredients": [
+        "huevos",
+        "harina",
+        "leche",
+        "mantequilla",
+        "café"
+      ],
+      "meal_type": [
+        "Breakfast"
+      ]
     },
-    "Tostadas con jamón serrano y tomate": {
-        "ingredients": ["pan", "jamón serrano", "tomate"],
-        "meal_type": ["Breakfast"]
+    "Tostadas con jamón york/serrano y tomate": {
+      "ingredients": [
+        "pan",
+        "jamón york",
+        "jamón serrano",
+        "tomate",
+        "café"
+      ],
+      "meal_type": [
+        "Breakfast"
+      ]
     },
     "Ensalada": {
-        "ingredients": ["lechugas", "tomate", "aceite de oliva"],
-        "meal_type": ["Side"]
+      "ingredients": [
+        "lechuga",
+        "tomate",
+        "aceite de oliva",
+        "cebolla dulce",
+        "vinagre"
+      ],
+      "meal_type": [
+        "Side"
+      ]
     },
-    "Puré de Verdura": {
-        "ingredients": ["zanahorias", "patatas", "calabacín", "caldo de verduras", "puerro"],
-        "meal_type": ["Side"]
+    "Puré de verdura": {
+      "ingredients": [
+        "zanahoria",
+        "patatas",
+        "calabacín",
+        "caldo de verduras",
+        "puerro"
+      ],
+      "meal_type": [
+        "Side"
+      ]
     },
-    "Sopa de Verdura": {
-        "ingredients": ["zanahorias", "patatas", "calabacín", "caldo de verduras", "puerro", "pasta sopa"],
-        "meal_type": ["Side"]
+    "Sopa de fideos y huevo duro": {
+      "ingredients": [
+        "fideos sopa",
+        "caldo de verduras",
+        "puerro",
+        "huevos"
+      ],
+      "meal_type": [
+        "Dinner"
+      ]
     },
-    "Patatas Fritas": {
-        "ingredients": ["patatas", "aceite de oliva"],
-        "meal_type": ["Side"]
+    "Patatas fritas": {
+      "ingredients": [
+        "patatas",
+        "aceite de oliva"
+      ],
+      "meal_type": [
+        "Side"
+      ]
     },
-    "Berenjenas Fritas": {
-        "ingredients": ["berenjena", "aceite de oliva"],
-        "meal_type": ["Side"]
+    "Berenjenas fritas": {
+      "ingredients": [
+        "berenjena",
+        "aceite de oliva"
+      ],
+      "meal_type": [
+        "Side"
+      ]
     },
-    "Alubia verde": {
-        "ingredients": ["alubia verde"],
-        "meal_type": ["Side"]
+    "Alubia verde con patata": {
+      "ingredients": [
+        "alubia verde",
+        "patatas"
+      ],
+      "meal_type": [
+        "Side"
+      ]
     },
     "Puré de patata": {
-        "ingredients": ["patatas", "mantequilla", "leche"],
-        "meal_type": ["Side"]
+      "ingredients": [
+        "patata",
+        "mantequilla",
+        "leche"
+      ],
+      "meal_type": [
+        "Side"
+      ]
     },
     "Coliflor": {
-        "ingredients": ["coliflor"],
-        "meal_type": ["Side"]
+      "ingredients": [
+        "coliflor"
+      ],
+      "meal_type": [
+        "Side"
+      ]
+    },
+    "Ensalada de tomate con mozzarella": {
+      "ingredients": [
+        "tomate",
+        "mozzarella"
+      ],
+      "meal_type": [
+        "Side",
+        "Dinner"
+      ]
+    },
+    "Acelga con patata": {
+      "ingredients": [
+        "acelga",
+        "patatas"
+      ],
+      "meal_type": [
+        "Side",
+        "Dinner"
+      ]
     },
     "Filetes de pollo empanados": {
-        "ingredients": ["pechuga de pollo", "pan rallado", "huevos", "aceite de oliva"],
-        "meal_type": ["Lunch", "Dinner"]
+      "ingredients": [
+        "pechuga de pollo",
+        "pan rallado",
+        "huevos",
+        "aceite de oliva"
+      ],
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ]
     },
     "Pulpo": {
-        "ingredients": ["pulpo"],
-        "meal_type": ["Dinner"]
+      "ingredients": [
+        "pulpo"
+      ],
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ]
+    },
+    "Gnocci al pesto": {
+      "ingredients": [
+        "gnocchi",
+        "pesto"
+      ],
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ]
     },
     "Cocido": {
-        "ingredients": ["garbanzos", "morcillo de ternera", "patatas", "zanahoria", "apio", "puerro"],
-        "meal_type": ["Lunch"]
+      "ingredients": [
+        "garbanzo",
+        "morcillo de ternera",
+        "patata",
+        "zanahoria",
+        "apio",
+        "puerro"
+      ],
+      "meal_type": [
+        "Lunch"
+      ]
     },
     "Rabas de calamar": {
-        "ingredients": ["rabas congeladas"],
-        "meal_type": ["Lunch", "Dinner"]
+      "ingredients": [
+        "rabas congeladas"
+      ],
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ]
+    },
+    "Fajitas de carne mechada y verduras": {
+      "ingredients": [
+        "pimiento verde",
+        "pimiento rojo",
+        "cebolla",
+        "morcillo de ternera",
+        "fajitas",
+        "pimentón",
+        "sal",
+        "pimienta"
+      ],
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ]
     },
     "Ensalada de lentejas y quinoa": {
-        "ingredients": ["lentejas", "apio", "aceite de oliva", "quinoa", "cebolla roja"],
-        "meal_type": ["Lunch", "Dinner"]
+      "ingredients": [
+        "lenteja",
+        "apio",
+        "aceite de oliva",
+        "quinoa",
+        "cebolla roja"
+      ],
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ]
+    },
+    "Pisto con huevo frito": {
+      "ingredients": [
+        "pimiento verde",
+        "aceite de oliva",
+        "pimiento rojo",
+        "cebolla",
+        "huevos",
+        "calabacín",
+        "tomate triturado",
+        "sal",
+        "pimienta"
+      ],
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ]
+    },
+    "Pizza casera": {
+      "ingredients": [
+        "harina pizza",
+        "levadura pizza",
+        "tomate triturado",
+        "albahaca",
+        "mozzarella"
+      ],
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ]
     },
     "Hamburguesitas de pollo": {
-        "ingredients": ["carne picada de pollo", "pistachos", "cebolla", "pimienta", "sal"],
-        "meal_type": ["Lunch", "Dinner"]
+      "ingredients": [
+        "carne picada de pollo",
+        "pistacho",
+        "cebolla",
+        "pimienta",
+        "sal"
+      ],
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ]
     },
     "Merluza en salsa verde": {
-        "ingredients": ["merluza", "caldo de pescado", "ajo", "perejil", "aceite de oliva", "harina"],
-        "meal_type": ["Lunch", "Dinner"]
+      "ingredients": [
+        "merluza",
+        "caldo de pescado",
+        "ajo",
+        "perejil",
+        "aceite de oliva",
+        "harina"
+      ],
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ]
     },
-    "Pasta Boloñesa": {
-        "ingredients": ["pasta", "carne picada de ternera", "ajo", "cebolla", "aceite de oliva", "tomate triturado"],
-        "meal_type": ["Lunch", "Dinner"]
+    "Pasta boloñesa": {
+      "ingredients": [
+        "pasta",
+        "carne picada de ternera",
+        "ajo",
+        "cebolla",
+        "aceite de oliva",
+        "tomate triturado"
+      ],
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ]
     },
     "Ensalada Ylenia": {
-        "ingredients": ["lechuga", "huevos", "tomate", "atún en bote", "cebolla"],
-        "meal_type": ["Lunch", "Dinner"]
+      "ingredients": [
+        "lechuga",
+        "huevos",
+        "tomate",
+        "atún en bote",
+        "cebolla"
+      ],
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ]
     },
-    "Nuggets de Pollo": {
-        "ingredients": ["nuggets de pollo"],
-        "meal_type": ["Lunch", "Dinner"]
+    "Nuggets de pollo": {
+      "ingredients": [
+        "nuggets de pollo"
+      ],
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ]
     },
-    "Merluza Empanada": {
-        "ingredients": ["merluza empanada"],
-        "meal_type": ["Lunch", "Dinner"]
+    "Merluza empanada": {
+      "ingredients": [
+        "merluza empanada"
+      ],
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ]
+    },
+    "Tortilla de calabacín": {
+      "ingredients": [
+        "patatas",
+        "calabacín",
+        "huevos",
+        "aceite de oliva",
+        "sal"
+      ],
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ]
+    },
+    "Lubina al horno": {
+      "ingredients": [
+        "lubina"
+      ],
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ]
+    },
+    "Fideuá": {
+      "ingredients": [
+        "fideos fideuá",
+        "gambas congeladas",
+        "caldo de pescado",
+        "calamar congelado"
+      ],
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ]
+    },
+    "Moussaka": {
+      "ingredients": [
+        "berenjena",
+        "carne picada",
+        "cebolla",
+        "zanahoria",
+        "tomate triturado",
+        "ajo",
+        "vino blanco",
+        "queso rallado",
+        "orégano",
+        "sal",
+        "pimienta",
+        "azúcar",
+        "aceite de oliva",
+        "leche",
+        "mantequilla",
+        "harina",
+        "nuez moscada"
+      ],
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ]
+    },
+    "Crema de calabaza": {
+      "ingredients": [
+        "calabaza",
+        "patatas",
+        "puerro",
+        "cebolla",
+        "agua",
+        "mantequilla",
+        "sal",
+        "pimienta"
+      ],
+      "meal_type": [
+        "Side",
+        "Dinner"
+      ]
     }
-}
+  }
+  
